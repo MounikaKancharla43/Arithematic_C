@@ -1,3 +1,10 @@
 # depslib dependency file v1.0
 1667511941 source:e:\mouni\git_projects\arithematic_c\arithematic_c\addition.c
 
+1667512590 source:e:\mouni\git_projects\arithematic_c\arithematic_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"addition.h"
+
+1667511926 e:\mouni\git_projects\arithematic_c\arithematic_c\addition.h
+

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "addition.h"
+#include "sub.h"
 int main()
 {
     int a=0,b=0;
@@ -10,6 +11,7 @@ int main()
 
     //print addition of two numbers
     printf("\naddition = %d\n",add(a,b));
+    printf("\nsustraction = %d\n", sub(a,b));
 
 
     return 0;
